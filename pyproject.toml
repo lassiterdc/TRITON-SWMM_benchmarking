@@ -58,5 +58,5 @@ package = true
 
 
 [tool.esbonio.sphinx]
-buildCommand = ["sphinx-build", "-b", "html", "docs", "./_build"]
+buildCommand = ["sphinx-build", "-b", "html", "docs", "docs/_build"]
 pythonCommand = ["C:\\Users\\Daniel\\anaconda3\\envs\\FloodAttribution\\python.exe"]
